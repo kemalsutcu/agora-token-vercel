@@ -1,1 +1,9 @@
-{\n  "name": "agora-token-vercel",\n  "version": "1.0.0",\n  "private": true,\n  "dependencies": {\n    "agora-access-token": "^2.0.4"\n  }\n}
+{
+  "name": "agora-token-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "agora-access-token": "^2.0.4"
+  }
+}
