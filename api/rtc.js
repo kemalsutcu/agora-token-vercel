@@ -1,4 +1,6 @@
-import { RtcTokenBuilder, RtcRole } from "agora-access-token";
+import pkg from "agora-access-token";
+const { RtcTokenBuilder, RtcRole } = pkg;
+
 
 export default function handler(req, res) {
   res.setHeader("Cache-Control", "no-store");
