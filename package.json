@@ -2,6 +2,7 @@
   "name": "agora-token-server",
   "private": true,
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "agora-token": "^2.0.5"
   }
 }
